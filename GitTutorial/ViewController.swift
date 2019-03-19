@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     override func viewDidLoad() {
+        print("CS 139")
         print("Hello World")
         super.viewDidLoad()
     }
